@@ -1,5 +1,7 @@
 ### sakasanokuma's repository 👋
-
+  
+**Language**
+![Java](https://img.shields.io/badge/language-Java-yellow) ![JavaScript](https://img.shields.io/badge/language-JavaScript-green) ![Python](https://img.shields.io/badge/language-Python-blue) ![Dart](https://img.shields.io/badge/language-Dart-yellowgreen) ...etc
 <!--
 **nekotokurasu11/nekotokurasu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
